@@ -1,6 +1,6 @@
 const resources = require("./src/data/resources");
-const url = process.env.SITE_URL || "https://example.org";
-const baseUrl = process.env.BASE_URL || "/";
+const url = process.env.SITE_URL || "https://monad-wireless.github.io/TP2026-T7";
+const baseUrl = "/TP2026-T7/";
 const quotes = [
     'Build on "do not touch" and "it works on my machine"',
     'Redneck engineering at its finest',
