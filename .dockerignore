@@ -1,0 +1,7 @@
+node_modules
+.docusaurus
+.git
+build
+npm-debug.log*
+.env
+.env.*

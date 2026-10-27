@@ -1,0 +1,60 @@
+{
+  "productOwner": {
+    "name": "Jakub Dubec",
+    "title": "Ing.",
+    "studyField": "",
+    "role": "Product owner",
+    "photo": "img/product-owner-placeholder.svg"
+  },
+  "members": [
+    {
+      "name": "Tomáš Čaplák",
+      "title": "Bc.",
+      "studyField": "IB",
+      "role": "Team Manager",
+      "photo": "img/member-placeholder.svg"
+    },
+    {
+      "name": "Radovan Semjon",
+      "title": "Bc.",
+      "studyField": "ISS",
+      "role": "Data Team Manager",
+      "photo": "img/member-placeholder.svg"
+    },
+    {
+      "name": "René Revay",
+      "title": "Bc.",
+      "studyField": "ISS",
+      "role": "Data Analyst",
+      "photo": "img/member-placeholder.svg"
+    },
+    {
+      "name": "Matúš Šikyňa",
+      "title": "Bc.",
+      "studyField": "ISS",
+      "role": "Hardware Researcher",
+      "photo": "img/member-placeholder.svg"
+    },
+    {
+      "name": "Jozef Bizoň",
+      "title": "Bc.",
+      "studyField": "ISS",
+      "role": "Data Analyst",
+      "photo": "img/member-placeholder.svg"
+    },
+    {
+      "name": "Peter Cigáň",
+      "title": "Bc.",
+      "studyField": "ISS",
+      "role": "Data Analyst",
+      "photo": "img/member-placeholder.svg"
+    },
+    {
+      "name": "Daniel Bučko",
+      "title": "Bc.",
+      "studyField": "IB",
+      "role": "Infrastructure Developer",
+      "photo": "img/member-placeholder.svg"
+    }
+  ]
+}

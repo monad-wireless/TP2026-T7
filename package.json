@@ -1,0 +1,23 @@
+{
+  "name": "monad-sec-team07",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "docusaurus start --host 0.0.0.0",
+    "build": "docusaurus build",
+    "serve": "docusaurus serve --host 0.0.0.0",
+    "clear": "docusaurus clear"
+  },
+  "dependencies": {
+    "@docusaurus/core": "3.10.2",
+    "@docusaurus/preset-classic": "3.10.2",
+    "@mdx-js/react": "^3.0.0",
+    "clsx": "^2.1.1",
+    "prism-react-renderer": "^2.4.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "engines": {
+    "node": ">=20.0"
+  }
+}
